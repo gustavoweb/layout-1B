@@ -31,6 +31,12 @@ main nav{
     height: 7vh;
     background-color: #F00;
 }
+main nav ul{
+
+}
+main nav ul li{
+    display: inline;
+}
 main section{
     width: 100%;
     height: 55vh;
